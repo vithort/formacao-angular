@@ -56,6 +56,12 @@ npm install --save bootstrap@3
 
 ### Implementando a Interface do CalculadoraComponent
 
+### Testando o CalculadoraComponent
+
+```npm
+ng test
+```
+
 ## 3º App: Gerenciador de Tarefas
 
 Gerenciador de Tarefas
