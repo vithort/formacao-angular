@@ -6,6 +6,10 @@ Formação Angular - Udemy
 
 Olá Mundo
 
+```npm
+ng new ola-mundo
+```
+
 ## 2º Calculadora:
 
 Calculadora
