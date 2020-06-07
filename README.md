@@ -6,6 +6,8 @@ Formação Angular - Udemy
 
 Olá Mundo
 
+### Criando o Projeto
+
 ```npm
 ng new ola-mundo
 ```
@@ -13,6 +15,12 @@ ng new ola-mundo
 ## 2º Calculadora:
 
 Calculadora
+
+### Criando o Projeto
+
+```npm
+ng new calculadora
+```
 
 ## 3º App: Gerenciador de Tarefas
 
