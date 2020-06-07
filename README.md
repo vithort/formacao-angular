@@ -42,6 +42,12 @@ ng g service calculadora/services/calculadora
 
 ### Criando a Interface HTML da Calculadora
 
+### Instalando Bootstrap
+
+```npm
+npm install --save bootstrap@3
+```
+
 ## 3º App: Gerenciador de Tarefas
 
 Gerenciador de Tarefas
