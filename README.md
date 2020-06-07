@@ -28,6 +28,12 @@ ng new calculadora
 ng g module calculadora
 ```
 
+### Criando o Componente Calculadora
+
+```npm
+ng g component calculadora/calculadora
+```
+
 ## 3º App: Gerenciador de Tarefas
 
 Gerenciador de Tarefas
