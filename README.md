@@ -66,6 +66,68 @@ ng test
 
 Gerenciador de Tarefas
 
+### Criando o Projeto
+
+```npm
+ng new gerenciador-de-taarefas
+```
+
+### Instalando o Bootstrap
+
+### Configurando as Rotas de Navegação no Componente Principal
+
+### Criando o Módulo de Tarefas
+
+### Criando o Model de Tarefas
+
+### Criando o Serviço de Tarefas - Parte 1/2
+
+### Criando o Serviço de Tarefas - Parte 2/2
+
+### Criando o Componente de Listagem de Tarefas
+
+### Registrando as Rotas de Listagem de Tarefas
+
+### Nota para a Criação da Interface HTML
+
+### Criando a Interface HTML da Listagem de Tarefas
+
+### Implementando a Listagem de Tarefas - Parte 1/2
+
+### Implementando a Listagem de Tarefas - Parte 2/2
+
+### Criando o Componente de Cadastro de Tarefas
+
+### Registrando as rotas de Cadastro de Tarefas
+
+### Criando a Interface HTML do Cadastro de Tarefas
+
+### Nota Sobre o ViewChild do Video a Seguir
+
+### Implementando o Cadastro de Tarefas - parte 1/2
+
+### Implementando o Cadastro de Tarefas - parte 2/2
+
+### Criando o Componente de Edição de Tarefas
+
+### Registrando as rotas de Edição de Tarefas
+
+### Criando a Interface HTML da Edição de Tarefas
+
+### Nota Sobre o ViewChild do Vídeo a Seguir
+
+### Implementando a Edição de Tarefas
+
+### Removendo Tarefas
+
+### Alterando o Status de uma Tarefa
+
+### Criando uma Diretiva de Tarefa Concluída
+
+### Implementando a Diretiva de Tarefa Concluída
+
+### Ajustando os Testes Unitários
+
 ## 4º App: Jogo da Velha
 
 Jogo da Velha
