@@ -226,6 +226,10 @@ npm install --save rxjs-compat
 
 ### Criando o Módulo Conversor
 
+```npm
+ng g module conversor
+```
+
 ### Criando o Model Moeda
 
 ### Criando o Model Conversão
