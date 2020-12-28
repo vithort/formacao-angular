@@ -90,6 +90,10 @@ ng g module tarefas
 
 ### Criando o Serviço de Tarefas - Parte 1/2
 
+```npm
+ng g service tarefas/shared/tarefa
+```
+
 ### Criando o Serviço de Tarefas - Parte 2/2
 
 ### Criando o Componente de Listagem de Tarefas
