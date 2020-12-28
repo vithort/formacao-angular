@@ -264,6 +264,10 @@ ng g service conversor/services/conversor
 
 ### Criando uma Diretiva de Validação de Números
 
+```npm
+ng g directive conversor/directives/numero
+```
+
 ### Implementando a Diretiva de Validação de Números - Parte 1/2
 
 ### Implementando a Diretiva de Validação de Números - Parte 2/2
