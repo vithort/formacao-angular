@@ -174,6 +174,10 @@ ng g module jogo-da-velha
 
 ### Criando o Componente Jogo da Velha
 
+```npm
+ng g component jogo-da-velha
+```
+
 ### Criando o Serviço do Jogo da Velha
 
 ### Implementando o Serviço do Jogo da Velha - parte 1/2
