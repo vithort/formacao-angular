@@ -276,6 +276,10 @@ ng g directive conversor/directives/numero
 
 ### Criando o Componente Modal de Conversão de Moedas
 
+```npm
+ng g component conversor/modal-cotacao
+```
+
 ### Criando o HTML do Componente Modal de Conversão de Moedas
 
 ### Implementando o Componente Modal de Conversão de Moedas
