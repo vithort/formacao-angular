@@ -69,7 +69,7 @@ Gerenciador de Tarefas
 ### Criando o Projeto
 
 ```npm
-ng new gerenciador-de-taarefas
+ng new gerenciador-de-tarefas
 ```
 
 ### Instalando o Bootstrap
