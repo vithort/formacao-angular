@@ -194,6 +194,8 @@ ng g service jogo-da-velha/shared/jogo-da-velha
 
 ### Adicionando uma Fonte ao Jogo da Velha
 
+[Google Fonts](https://fonts.google.com/)
+
 ### Adicionando Imagens ao Jogo da Velha
 
 ### Implementando a Tela Inicial do Jogo da Velha
