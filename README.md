@@ -168,6 +168,10 @@ ng new jogo-da-velha
 
 ### Criando o Módulo Jogo da Velha
 
+```npm
+ng g module jogo-da-velha
+```
+
 ### Criando o Componente Jogo da Velha
 
 ### Criando o Serviço do Jogo da Velha
