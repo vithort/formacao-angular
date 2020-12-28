@@ -148,6 +148,10 @@ ng g component tarefas/editar-tarefa
 
 ### Criando uma Diretiva de Tarefa Concluída
 
+```npm
+ng g directive tarefas/shared/tarefa-concluida
+```
+
 ### Implementando a Diretiva de Tarefa Concluída
 
 ### Ajustando os Testes Unitários
