@@ -82,6 +82,10 @@ npm install --save bootstrap@3
 
 ### Criando o Módulo de Tarefas
 
+```npm
+ng g module tarefas
+```
+
 ### Criando o Model de Tarefas
 
 ### Criando o Serviço de Tarefas - Parte 1/2
