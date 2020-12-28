@@ -258,9 +258,9 @@ ng g service conversor/services/conversor
 
 ### Implementando o Serviço de Conversão de Moedas
 
-### Criando o HTML do formulário de Conversão de Moedas
+### Criando o HTML do Formulário de Conversão de Moedas
 
-### Implementando o formulário de Conversão de Moedas
+### Implementando o Formulário de Conversão de Moedas
 
 ### Criando uma Diretiva de Validação de Números
 
@@ -268,7 +268,7 @@ ng g service conversor/services/conversor
 
 ### Implementando a Diretiva de Validação de Números - Parte 2/2
 
-### Implementando a ação de Conversão de Moedas
+### Implementando a Ação de Conversão de Moedas
 
 ### Criando o Componente Modal de Conversão de Moedas
 
@@ -278,7 +278,7 @@ ng g service conversor/services/conversor
 
 ### Criando um filtro (Pipe) de Formatação de Data (dd/mm/yyyy)
 
-### Implementando o filtro (Pipe) de Formatação de Data
+### Implementando o Filtro (Pipe) de Formatação de Data
 
 ### Ajustando os Testes Unitários do Conversor de Moedas
 
