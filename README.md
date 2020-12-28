@@ -134,7 +134,7 @@ ng g component tarefas/cadastrar-tarefa
 ng g component tarefas/editar-tarefa
 ```
 
-### Registrando as rotas de Edição de Tarefas
+### Registrando as Rotas de Edição de Tarefas
 
 ### Criando a Interface HTML da Edição de Tarefas
 
