@@ -210,6 +210,56 @@ ng g service jogo-da-velha/shared/jogo-da-velha
 
 Conversor de Moedas
 
+### Criando o Projeto
+
+```npm
+ng new conversor-de-moedas
+```
+
+### Instalando o Bootstrap e jQuery
+
+### Criando o Módulo Conversor
+
+### Criando o Model Moeda
+
+### Criando o Model Conversão
+
+### Criando o Model de Resposta de uma Conversão
+
+### Criando o Componente do Conversor de Moedas
+
+### Criando o Serviço de Gerenciamento de Moedas
+
+### Implementando o Serviço Gerenciamento de Moedas
+
+### Criando o Serviço de Conversão de Moedas
+
+### Implementando o Serviço de Conversão de Moedas
+
+### Criando o HTML do formulário de Conversão de Moedas
+
+### Implementando o formulário de Conversão de Moedas
+
+### Criando uma Diretiva de Validação de Números
+
+### Implementando a Diretiva de Validação de Números - Parte 1/2
+
+### Implementando a Diretiva de Validação de Números - Parte 2/2
+
+### Implementando a ação de Conversão de Moedas
+
+### Criando o Componente Modal de Conversão de Moedas
+
+### Criando o HTML do Componente Modal de Conversão de Moedas
+
+### Implementando o Componente Modal de Conversão de Moedas
+
+### Criando um filtro (Pipe) de Formatação de Data (dd/mm/yyyy)
+
+### Implementando o filtro (Pipe) de Formatação de Data
+
+### Ajustando os Testes Unitários do Conversor de Moedas
+
 ## 6º App: Dashboard
 
 Dashboard
