@@ -160,6 +160,38 @@ ng g directive tarefas/shared/tarefa-concluida
 
 Jogo da Velha
 
+### Criando o Projeto
+
+```npm
+ng new jogo-da-velha
+```
+
+### Criando o Módulo Jogo da Velha
+
+### Criando o Componente Jogo da Velha
+
+### Criando o Serviço do Jogo da Velha
+
+### Implementando o Serviço do Jogo da Velha - parte 1/2
+
+### Implementando o Serviço do Jogo da Velha - parte 2/2
+
+### Criando a Interface HTML do Jogo da Velha
+
+### Criando o CSS do Jogo da Velha
+
+### Adicionando uma Fonte ao Jogo da Velha
+
+### Adicionando Imagens ao Jogo da Velha
+
+### Implementando a Tela Inicial do Jogo da Velha
+
+### Implementando a Tela do Tabuleiro do Jogo da Velha
+
+### Implementando a Tela Final do Jogo da Velha
+
+### Ajustando os Testes Unitários do Jogo da Velha
+
 ## 5º App: Conversor de Moedas
 
 Conversor de Moedas
