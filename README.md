@@ -218,6 +218,12 @@ ng new conversor-de-moedas
 
 ### Instalando o Bootstrap e jQuery
 
+```npm
+npm install --save bootstrap@3
+npm install --save jquery
+npm install --save rxjs-compat
+```
+
 ### Criando o Módulo Conversor
 
 ### Criando o Model Moeda
