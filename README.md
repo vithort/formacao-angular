@@ -74,6 +74,10 @@ ng new gerenciador-de-tarefas
 
 ### Instalando o Bootstrap
 
+```npm
+npm install --save bootstrap@3
+```
+
 ### Configurando as Rotas de Navegação no Componente Principal
 
 ### Criando o Módulo de Tarefas
