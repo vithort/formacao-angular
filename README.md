@@ -130,6 +130,10 @@ ng g component tarefas/cadastrar-tarefa
 
 ### Criando o Componente de Edição de Tarefas
 
+```npm
+ng g component tarefas/editar-tarefa
+```
+
 ### Registrando as rotas de Edição de Tarefas
 
 ### Criando a Interface HTML da Edição de Tarefas
