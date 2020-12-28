@@ -13,16 +13,15 @@ export class TarefaService {
   }
 
   cadastrar(tarefa: Tarefa): void {
-  	const tarefas = this.listarTodos();
-  	tarefa.id = new Date().getTime();
-  	tarefas.push(tarefa);
-  	localStorage['tarefas'] = JSON.stringify(tarefas);
+    const tarefas = this.listarTodos();
+    tarefa.id = new Date().getTime();
+    tarefas.push(tarefa);
+    localStorage['tarefas'] = JSON.stringify(tarefas);
   }
 
-  /*
   buscarPorId(id: number): Tarefa {
     const tarefas: Tarefa[] = this.listarTodos();
-    return tarefas.find(tarefa => tarefa.id === id);
+    return tarefas.find((tarefa) => tarefa.id === id);
   }
 
   atualizar(tarefa: Tarefa): void {
@@ -37,7 +36,7 @@ export class TarefaService {
 
   remover(id: number): void {
     let tarefas: Tarefa[] = this.listarTodos();
-    tarefas = tarefas.filter(tarefa => tarefa.id !== id);
+    tarefas = tarefas.filter((tarefa) => tarefa.id !== id);
     localStorage['tarefas'] = JSON.stringify(tarefas);
   }
 
@@ -50,6 +49,4 @@ export class TarefaService {
     });
     localStorage['tarefas'] = JSON.stringify(tarefas);
   }
-
-  */
 }
