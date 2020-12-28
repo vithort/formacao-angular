@@ -114,6 +114,10 @@ ng g component tarefas/listar-tarefa
 
 ### Criando o Componente de Cadastro de Tarefas
 
+```npm
+ng g component tarefas/cadastrar-tarefa
+```
+
 ### Registrando as rotas de Cadastro de Tarefas
 
 ### Criando a Interface HTML do Cadastro de Tarefas
