@@ -98,6 +98,10 @@ ng g service tarefas/shared/tarefa
 
 ### Criando o Componente de Listagem de Tarefas
 
+```npm
+ng g component tarefas/listar-tarefa
+```
+
 ### Registrando as Rotas de Listagem de Tarefas
 
 ### Nota para a Criação da Interface HTML
