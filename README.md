@@ -180,6 +180,10 @@ ng g component jogo-da-velha
 
 ### Criando o Serviço do Jogo da Velha
 
+```npm
+ng g service jogo-da-velha/shared/jogo-da-velha
+```
+
 ### Implementando o Serviço do Jogo da Velha - parte 1/2
 
 ### Implementando o Serviço do Jogo da Velha - parte 2/2
