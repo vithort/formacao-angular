@@ -238,6 +238,10 @@ ng g module conversor
 
 ### Criando o Componente do Conversor de Moedas
 
+```npm
+ng g component conversor/conversor
+```
+
 ### Criando o Serviço de Gerenciamento de Moedas
 
 ### Implementando o Serviço Gerenciamento de Moedas
