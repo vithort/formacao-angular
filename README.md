@@ -252,6 +252,10 @@ ng g service conversor/services/moeda
 
 ### Criando o Serviço de Conversão de Moedas
 
+```npm
+ng g service conversor/services/conversor
+```
+
 ### Implementando o Serviço de Conversão de Moedas
 
 ### Criando o HTML do formulário de Conversão de Moedas
