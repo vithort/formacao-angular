@@ -1,16 +1,17 @@
-import { TestBed } from '@angular/core/testing';
+import { TestBed, inject } from '@angular/core/testing';
+import { HttpClientModule } from '@angular/common/http';
 
 import { DadosService } from './dados.service';
 
 describe('DadosService', () => {
-  let service: DadosService;
-
   beforeEach(() => {
-    TestBed.configureTestingModule({});
-    service = TestBed.inject(DadosService);
+    TestBed.configureTestingModule({
+      providers: [DadosService],
+      imports: [HttpClientModule],
+    });
   });
 
-  it('should be created', () => {
+  it('should ...', inject([DadosService], (service: DadosService) => {
     expect(service).toBeTruthy();
-  });
+  }));
 });
