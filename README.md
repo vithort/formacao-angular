@@ -286,6 +286,10 @@ ng g component conversor/modal-cotacao
 
 ### Criando um filtro (Pipe) de Formatação de Data (dd/mm/yyyy)
 
+```npm
+ng g pipe conversor/pipes/data-br
+```
+
 ### Implementando o Filtro (Pipe) de Formatação de Data
 
 ### Ajustando os Testes Unitários do Conversor de Moedas
