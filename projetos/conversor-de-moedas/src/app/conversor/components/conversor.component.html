@@ -40,11 +40,17 @@
         type="submit"
         value="Converter"
         class="btn btn-success"
-        data-togle="modal"
+        data-toggle="modal"
         data-target="#modalCotacao"
         (click)="converter()"
         [disabled]="!conversaoForm.form.valid"
       />
     </form>
   </div>
+  <modal-cotacao
+    [id]="'modalCotacao'"
+    [conversaoResponse]="conversaoResponse"
+    [conversao]="conversao"
+    (onConfirm)="init()"
+  ></modal-cotacao>
 </div>
