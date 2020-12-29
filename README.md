@@ -346,6 +346,8 @@ Projeto Final
 
 ```npm
 ng new projeto-final
+cd projeto-final
+npm install rxjs-compat --save
 ```
 
 ### Instalando o Bootstrap e jQuery
@@ -353,7 +355,6 @@ ng new projeto-final
 ```npm
 npm install --save bootstrap@3
 npm install --save jquery
-npm install --save rxjs-compat
 ```
 
 ### Importando a API de Gráficos no Projeto
