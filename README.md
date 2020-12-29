@@ -298,6 +298,94 @@ ng g pipe conversor/pipes/data-br
 
 Dashboard
 
+### Criando o Projeto
+
+```npm
+ng new dashboard
+cd dashboard
+npm install rxjs-compat --save
+```
+
+### Criando o Módulo Dashboard
+
+```npm
+ng g module dashboard
+```
+
+### Criando o Componente do Dashboard
+
+```npm
+ng g component dashboard
+```
+
+### Criando o Serviço de Dados do Dashboard
+
+```npm
+ng g service dashboard/dados
+```
+
+### Implementando o Serviço de Dados do Dashboard
+
+### Importando a API de Gráficos no Projeto
+
+[Google Chart](https://developers.google.com/chart)
+
+### Criando o HTML e CSS dos Gráficos do Dashboard
+
+### Implementando os Gráficos no Componente - parte 1/2
+
+### Implementando os Gráficos no Componente - parte 2/2
+
+### Ajustando os Testes Unitários do Dashboard
+
 ## 7º App: Projeto Final
 
 Projeto Final
+
+### Criando o Projeto
+
+```npm
+ng new projeto-final
+```
+
+### Instalando o Bootstrap e jQuery
+
+```npm
+npm install --save bootstrap@3
+npm install --save jquery
+npm install --save rxjs-compat
+```
+
+### Importando a API de Gráficos no Projeto
+
+### Configurando as Rotas de Navegação no Componente Principal
+
+### Criando o HTML do Menu Principal da Aplicação
+
+### Integrando o Módulo Dashboard
+
+### Criando as Rotas do Módulo Dashboard
+
+### Integrando o Módulo Calculadora
+
+### Criando as Rotas do Módulo Calculadora
+
+### Integrando o Módulo Conversor de Moedas
+
+### Criando as Rotas do Módulo Conversor de Moedas
+
+### Integrando o Módulo Gerenciador de Tarefas
+
+### Criando as Rotas do Módulo Gerenciador de Tarefas
+
+### Integrando o Módulo Jogo da Velha
+
+### Importando os Assets (Imagens) do Jogo da Velha
+
+### Importando a Fonte do Jogo da Velha
+
+### Notas para o Projeto Jogo da Velha no Angular 9
+
+### Criando as Rotas do Módulo Jogo da Velha
+
+### Ajustando os Testes Unitários do Projeto final
